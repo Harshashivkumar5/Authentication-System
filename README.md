@@ -130,4 +130,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Express.js team for the amazing framework
 - MongoDB for the database
-- Tailwind CSS for the styling framework
+- Tailwind CSS for the styling framework 
